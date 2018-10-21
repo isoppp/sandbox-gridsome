@@ -8,5 +8,10 @@
   },
   "dependencies": {
     "gridsome": "^0.2.0"
+  },
+  "devDependencies": {
+    "@gridsome/remark-prismjs": "^0.0.3",
+    "@gridsome/source-filesystem": "^0.1.0",
+    "@gridsome/transformer-remark": "^0.0.3"
   }
 }
