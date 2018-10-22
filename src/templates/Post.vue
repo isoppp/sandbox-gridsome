@@ -5,7 +5,7 @@
 </template>
 
 <page-query>
-query Post ($path: String!) {
+query MarkdownPost ($path: String!) {
   post (path: $path) {
     content
   }
